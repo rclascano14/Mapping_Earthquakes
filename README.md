@@ -17,7 +17,7 @@ This weeks module consists of the following three deliverables:
 
 ### Deliverable 1: Add Tectonic Plate Data
 
-<img width="685" alt="Module 13 Deliverable 1" src="https://user-images.githubusercontent.com/95828604/160025244-dd4ae4dd-b690-4062-8eaf-a53dddc35953.png">
+<img width="823" alt="Module 13 Deliverable 1" src="https://user-images.githubusercontent.com/95828604/160026146-4b5a8468-f624-40b6-82b2-fcace1ca4ac0.png">
 
 This is a geographical map depicting tectonic plate data in addition to earthquake data.
 
